@@ -1,0 +1,22 @@
+{
+    "name": "node-server",
+    "version": "1.2.3",
+    "description": "Server side",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "server.js"
+    },
+    "repository": {
+      "type": "github",
+      "url": "server side"
+    },
+    "keywords": [
+      "JavaScript",
+      "Node.js",
+      "web side server",
+      "server side "
+    ],
+    "author": "chetan",
+    "license": "ME"
+  }
